@@ -19,8 +19,10 @@ The tutorials were created with the Web Based Online ROS development environment
  
 ## To use the Jump Experimental Branch 
 You have to do the following:
-1) git clone https://github.com/leggedrobotics/xpp.git # You need some elements from here
-2) catkin_make # This will build some custom messages
+```bash
+git clone https://github.com/leggedrobotics/xpp.git # You need some elements from here
+catkin_make # This will build some custom messages
+```
 
 # How to launch
 You have to launch the simulation
